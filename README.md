@@ -2,7 +2,7 @@
 
 ## OS X
 
-To setup Jekyll on OS X, first install [homebrew](http://brew.sh).
+To install Jekyll on OS X, first install [homebrew](http://brew.sh).
 
 Once [homebrew](http://brew.sh) is installed, install `rbenv`.
 
@@ -17,6 +17,8 @@ rbenv install 2.3.0
 rbenv global 2.3.0
 ```
 
+## Site Setup
+
 Clone this repository and install Jekyll using Ruby Bundler.
 
 ```
@@ -30,7 +32,6 @@ rbenv rehash
 
 To view the rendered website locally, run `jekyll serve` from the `accre.github.io` directory and point your web browser to http://localhost:4000.
 
-The site doesn't have to be rendered locally. Creating content, and then committing and pushing that content to GitHub is all that is required. The GitHub Pages system automatically detects the update, and regenerates the site.
+The site doesn't have to be generated locally. Creating content, and then committing and pushing that content to GitHub is all that is required. The GitHub Pages system automatically detects the update, and regenerates the site.
 
-
-
+If a sub site is desired, go to the GitHub repository, and create a branch named `gh-pages`. Any HTML, or even another Jekyll site, placed into that branch will be rendered at accre.github.io/repository-name.
