@@ -34,4 +34,4 @@ To view the rendered website locally, run `jekyll serve` from the `accre.github.
 
 The site doesn't have to be generated locally. Creating content, and then committing and pushing that content to GitHub is all that is required. The GitHub Pages system automatically detects the update, and regenerates the site.
 
-If a sub site is desired, go to the GitHub repository, and create a branch named `gh-pages`. Any HTML, or even another Jekyll site, placed into that branch will be rendered at accre.github.io/repository-name.
+If a sub site is desired, go to the GitHub repository, and create a branch named `gh-pages`. Any HTML, or even another Jekyll instance, placed into that branch will be rendered at accre.github.io/repository-name.
