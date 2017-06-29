@@ -18,8 +18,9 @@
       <description>{"GOOD": 5, "UNKNOWN": 0, "BAD": 0}</description>
       <guid isPermaLink="false">some id</guid>
     </item>
-     <item>
-      <title>{"GOOD": 5, "UNKNOWN": 0, "BAD": 0}</title>
+    <item>
+      <title>Another itme</title>
+      <description>{"GOOD": 5, "UNKNOWN": 0, "BAD": 0}</description>
       <guid isPermaLink="false">some id</guid>
     </item>
   </channel>
