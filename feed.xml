@@ -12,16 +12,16 @@
       <link>http://www.accre.vanderbilt.edu</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2017 21:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2017 22:07:48 +0000</lastBuildDate>
     <item>
       <title>An example RSS entry</title>
-      <description>{"GOOD": 5, "UNKNOWN": 0, "BAD": 0}</description>
+      <description>{"UNKNOWN": 0, "GOOD": 5, "BAD": 0}</description>
       <guid isPermaLink="false">some id</guid>
     </item>
     <item>
-      <title>Another itme</title>
-      <description>{"GOOD": 5, "UNKNOWN": 0, "BAD": 0}</description>
-      <guid isPermaLink="false">some id</guid>
+      <title>A second entry</title>
+      <description>&lt;b&gt;Hello World&lt;/b&gt;</description>
+      <guid isPermaLink="false">another_id</guid>
     </item>
   </channel>
 </rss>
