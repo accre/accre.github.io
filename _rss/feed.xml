@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ACCRE's Status Feed</title>
+    <link>http://www.accre.vanderbilt.edu</link>
+    <description>ACCRE's Status Feed</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>http://www.accre.vanderbilt.edu/wp-content/themes/ashford/favicon.ico</url>
+      <title>ACCRE's Status Feed</title>
+      <link>http://www.accre.vanderbilt.edu</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2017 22:41:27 +0000</lastBuildDate>
+    <item>
+      <title>An example RSS entry</title>
+      <description>&lt;img src="https://dummyimage.com/600x400/000/fff&amp;text=ffoo" alt="Mountain View" style="width:304px;height:228px;"/&gt;</description>
+      <guid isPermaLink="false">some id</guid>
+      <pubDate>Thu, 29 Jun 2017 17:41:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>A second entry</title>
+      <description>&lt;b&gt;Hello World&lt;/b&gt;</description>
+      <guid isPermaLink="false">another_id</guid>
+      <pubDate>Thu, 29 Jun 2017 17:41:27 -0500</pubDate>
+    </item>
+  </channel>
+</rss>
