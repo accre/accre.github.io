@@ -12,18 +12,18 @@
       <link>http://www.accre.vanderbilt.edu</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jun 2017 22:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 19:14:31 +0000</lastBuildDate>
     <item>
       <title>An example RSS entry</title>
-      <description>&lt;img src="https://dummyimage.com/600x400/000/fff&amp;text=ffoo" alt="Mountain View" style="width:304px;height:228px;"/&gt;</description>
+      <description>&lt;svg height="100" width="100"&gt;&lt;circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" /&gt;Sorry, your browser does not support inline SVG. &lt;/svg&gt;</description>
       <guid isPermaLink="false">some id</guid>
-      <pubDate>Thu, 29 Jun 2017 17:41:27 -0500</pubDate>
+      <pubDate>Fri, 30 Jun 2017 14:14:31 -0500</pubDate>
     </item>
     <item>
       <title>A second entry</title>
       <description>&lt;b&gt;Hello World&lt;/b&gt;</description>
       <guid isPermaLink="false">another_id</guid>
-      <pubDate>Thu, 29 Jun 2017 17:41:27 -0500</pubDate>
+      <pubDate>Fri, 30 Jun 2017 14:14:31 -0500</pubDate>
     </item>
   </channel>
 </rss>
